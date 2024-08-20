@@ -1,0 +1,21 @@
+/* Adicionando CSS */
+/* Com seletor "TAG" */
+h1{
+    color: lightcoral;
+}
+p{
+    font-weight: bold;
+}
+/* Adicionando CSS */
+/* Com o seletor 'id'*/
+/* ID não pode ser compartilhado */
+#p2{
+    color: royalblue;
+    font-weight: normal;
+}
+
+/* Adicionando CSS com seletor classico */
+.p-txt{
+    color: rgb(0, 136, 255);
+    font-weight: normal;
+}
