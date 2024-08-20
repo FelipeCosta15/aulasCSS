@@ -1,0 +1,24 @@
+/* Alterando a cor por nome */
+.nome{
+    color: cornflowerblue;
+    background-color: orange;
+}
+/* Alterando cor Hexadecimal */
+.Hexadecimal{
+    color: #d769ff;
+    background-color: #6eff69;
+}
+/* Alterando cor RGBA */
+.RGBA{
+    color: rgba(188, 218, 21, 0.991);
+    background-color: rgba(127, 17, 224, 0.279);
+}
+/* Alterando a Outra Pagina */
+h1{
+    background-color: grey;
+}
+
+.div-background{
+    background-image: url(felipeaggio.png);
+    height: 300px;
+}
